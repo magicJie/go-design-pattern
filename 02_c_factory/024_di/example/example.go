@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	di "github.com/magicJie/go-design-pattern/c_02_factory/c_024_di"
+	di "github.com/magicJie/go-design-pattern/02_c_factory/024_di"
 )
 
 // A 依赖关系 A-> B -> C

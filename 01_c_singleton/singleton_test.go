@@ -3,7 +3,7 @@ package singleton_test
 import (
 	"testing"
 
-	singleton "github.com/magicJie/go-design-pattern/c_01_singleton"
+	singleton "github.com/magicJie/go-design-pattern/01_c_singleton"
 	"github.com/stretchr/testify/assert"
 )
 
